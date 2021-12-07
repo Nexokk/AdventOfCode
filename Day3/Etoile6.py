@@ -54,5 +54,3 @@ with open('data.txt') as f:
 
     print(lines)
     print(linesbis)
-
-print("a")
