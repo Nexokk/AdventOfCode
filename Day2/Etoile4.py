@@ -19,3 +19,5 @@ with open('data.txt', 'r') as f:
 print(depth)
 print(length)
 print(depth*length)
+
+print("b")
